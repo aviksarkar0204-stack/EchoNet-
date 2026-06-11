@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ML / data artifacts
+models/
+checkpoints/
+runs/
+outputs/
+artifacts/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.pickle
+*.joblib
+
+# Audio/generated data artifacts
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# Large datasets
+data/
+!data/.gitkeep
+
+# Temporary files
+tmp/
+temp/
+.cache/
