@@ -1,8 +1,13 @@
 # 🎧 EchoNet — Environmental Sound Classification
 
 A complete audio machine learning pipeline that classifies 50 environmental sounds using classical ML and deep learning. Built on the ESC-50 dataset.
-
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-EchoNet-blue)](https://huggingface.co/spaces/Avik128/EchoNet)
 ---
+## 🚀 Live Demo
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-EchoNet-blue)](https://huggingface.co/spaces/Avik128/EchoNet)
+
+Try it live → [https://huggingface.co/spaces/Avik128/EchoNet](https://huggingface.co/spaces/Avik128/EchoNet)
 
 ## 🏆 Results
 
