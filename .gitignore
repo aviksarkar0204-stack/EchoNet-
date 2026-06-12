@@ -52,6 +52,8 @@ artifacts/
 *.h5
 *.hdf5
 *.pt
+*.pth
+*.pkl
 *.onnx
 *.pickle
 *.joblib
@@ -71,3 +73,4 @@ data/
 tmp/
 temp/
 .cache/
+/models/
